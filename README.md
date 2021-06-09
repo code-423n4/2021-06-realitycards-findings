@@ -1,6 +1,4 @@
-*NOTE:* This is a template. If you are here looking for info on current contests, you can find info on the latest contests at https://code423n4.com
-
-# [Sponsorname] Contest
+# Reality Cards Contest
 
 Unless otherwise discussed, this repo will be made public after contest completion, sponsor review, judging, and two-week issue mitigation window.
 
