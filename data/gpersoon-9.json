@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Checks for enum bounds",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/9"
+}
