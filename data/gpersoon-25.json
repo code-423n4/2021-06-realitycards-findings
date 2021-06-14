@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "transferFrom result not checked",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/25"
+}
