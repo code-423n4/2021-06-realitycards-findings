@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "0",
+  "title": "functions safeTransferFrom and transferFrom are too similar",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/34"
+}
