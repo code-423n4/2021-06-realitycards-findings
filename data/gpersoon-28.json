@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "payout doesn't fix isForeclosed state",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/28"
+}
