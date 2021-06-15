@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "maxgrok",
+  "address": "0x4B037687c1C5159285A7DefAD3681f8e123D2478",
+  "risk": "1",
+  "title": "Function Visibility Not Set",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/58"
+}
