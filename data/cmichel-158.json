@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Pot distribution does not need to add up to 100%",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/158"
+}
