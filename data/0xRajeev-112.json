@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Missing balancedBooks modifier could result in failed system insolvency detection",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/112"
+}
