@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "a_delamo",
+  "address": "0xEBB014649852462f09489E3DFbe45D9759E9b819",
+  "risk": "3",
+  "title": "Anyone can affect deposits of any user and turn the owner of the token",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/119"
+}
