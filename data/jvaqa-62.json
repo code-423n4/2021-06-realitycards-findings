@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "jvaqa",
+  "address": "0x3C2b8156D8AbE9814BFc800b170b60C66eC33cc2",
+  "risk": "0",
+  "title": "Redundant require() statement in RCFactory.createMarket()",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/62"
+}
