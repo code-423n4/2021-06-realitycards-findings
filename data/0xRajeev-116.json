@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "withdraw function is never called from Market",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/116"
+}
