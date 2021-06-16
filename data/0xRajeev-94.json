@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Missing Factory-only access check leads to loss of funds",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/94"
+}
