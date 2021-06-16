@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "maplesyrup",
+  "address": "0x8b8ce5B07E0a94Fe1B446035EE5D651F90aa7a36",
+  "risk": "1",
+  "title": "Benign Reentrancy Issues found in RCOrderbook.sol",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/131"
+}
