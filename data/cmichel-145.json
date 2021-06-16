@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Market-specific pause is not checked for sponsor",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/145"
+}
