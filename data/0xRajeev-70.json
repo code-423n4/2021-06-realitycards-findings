@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "NFT minting limit dependence on block gas limit",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/70"
+}
