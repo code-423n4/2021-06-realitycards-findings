@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "uberOwner cannot do all the things an owner can",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/156"
+}
