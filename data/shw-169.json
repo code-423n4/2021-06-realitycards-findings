@@ -1,0 +1,9 @@
+{
+  "contest": "Reality Cards contest",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "1",
+  "title": "Return values of ERC20 `transfer` and `transferFrom` are unchecked",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2021-06-realitycards-findings/issues/169"
+}
